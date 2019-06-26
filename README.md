@@ -1,0 +1,1 @@
+# build-mySharedLib-Desktop_Qt_5_12_0_MinGW_64_bit-Release
